@@ -1,0 +1,1 @@
+{"matin": {"nom": "Matin", "heure_debut": "07:30", "heure_fin": "15:00"}, "soir": {"nom": "Soir", "heure_debut": "12:00", "heure_fin": "19:30"}, "nuit": {"nom": "Nuit", "heure_debut": "19:30", "heure_fin": "07:30"}, "repos": 0}

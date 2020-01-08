@@ -1,1 +1,0 @@
-C:\Users\cj\AppData\Local\Programs\Python\Python36-32\Scripts\pyuic5.exe C:\Users\cj\Scheduler_WAndreea\untitled.ui -o C:\Users\cj\Scheduler_WAndreea\gui.py
